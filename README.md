@@ -1,5 +1,7 @@
-requires :
-qb-target
-qb-core
+gerekenler :
 
-priew :
+[qb-core](https://github.com/qbcore-framework/qb-core)
+
+[qb-target](https://github.com/qbcore-framework/qb-target)
+
+önizleme :
